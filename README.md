@@ -1,3 +1,7 @@
+
+![Header](https://capsule-render.vercel.app/api?type=waving&height=303&color=gradient&text=Shadrack%20J.%20Abbey&animation=fadeIn&fontSize=0&desc=Software%20Engineering%20|%20Web%20Dev%20|%20Database%20&fontAlign=50&descSize=-6&reversal=false&section=header)
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira%20Code&size=22&duration=3000&pause=1000&color=6A6A6A&width=720&lines=Software%20Engineer%20%E2%80%A2%20Building%20web%20apps%20(HTML,%20CSS,%20JS);Sharing%20my%20journey%20and%20learnings%20in%20tech)
 # 👋Hi, I'm Shadrack!
 ## 🌐 My Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/1BjgF2p136/)
