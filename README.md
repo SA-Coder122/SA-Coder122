@@ -14,7 +14,7 @@
 ## 💫About Me:
 💻 Software Engineer sharing about my growth, challenges, and learnings in tech.<br/>
 🎓 Studied [Software Engineering](https://www.youtube.com/watch?v=tPgQVOiz62M&t=9047s) at IPMC University College of Technology , Accra - Ghana.<br/>
-🎥 Making videos Computer Science, Tech , Art & Animation, Drumming and productivity on [Youtube](https://youtube.com/@qwaubinaabbey?si=vqWU6Zdo1k7vVlhA).<br/>
+🎥 Making videos about Computer Science, Tech , Art & Animation, Drumming and productivity on [Youtube](https://youtube.com/@qwaubinaabbey?si=vqWU6Zdo1k7vVlhA).<br/>
 📚 Currently Learning
   - Advanced DOM manipulation and building interactive user interfaces  
   - Modern JavaScript patterns and best practices  
